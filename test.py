@@ -1,0 +1,2 @@
+print("kazu")
+print("kuzu")
